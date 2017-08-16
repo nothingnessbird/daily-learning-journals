@@ -1,0 +1,3 @@
+#LJ Code 201 - Day 6
+
+The object model just keeps giving. My JS keeps getting smaller and nicer looking, while achieving more things. I was SO SAD to see a point docked on an assignment for the first time, but I already fixed and resubmitted (I forgot to update the README). I managed to get my JS code working and done at a reasonable time today to actually leave, and I'm heading to bed. I'll work on the CSS tomorrow, and take a look at the stretch goals. My internet was screwed up for hours today, and I didn't realize you could commit multiple times before pushing, so I don't have nearly enough commits for the day. Now that I know better I will make a real effort to commit more often.
