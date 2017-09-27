@@ -1,0 +1,3 @@
+#LJ Code 301 - Day 11
+
+I am very glad that this is week three and soon will be catch-up time and then project week. Yesterday's lab was supposed to be simple and quick, to allow time to catch up, and it was super confusing and we still aren't done. I guess I will figure out all the portfolio stuff this weekend....
